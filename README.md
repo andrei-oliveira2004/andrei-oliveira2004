@@ -3,9 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4409?style=for-the-badge&logo=instagram&logoColor=WHITE)](https://www.instagram.com/andrei_oliveira04/)
 
 
-![Andrei GitHub stats](https://github-readme-stats.vercel.app/api?username=andrei-oliveira2004&theme=dark&show_icons=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-oliveira2004&size_weight=0.5&count_weight=0.5)
+![Andrei GitHub stats](https://github-readme-stats.vercel.app/api?username=andrei-oliveira2004&theme=dark&show_icons=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-oliveira2004&size_weight=0.5&count_weight=0.5)
 
 ## Tecnologias que uso no cotidiano
 
